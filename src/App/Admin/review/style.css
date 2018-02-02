@@ -1,0 +1,15 @@
+.content-body-review {
+    overflow-y: hidden
+}
+
+.content-body-review:hover {
+    overflow-y: scroll
+}
+
+.img-scroll {
+    overflow-y: hidden
+}
+
+.img-scroll:hover {
+    overflow-y: scroll
+}
